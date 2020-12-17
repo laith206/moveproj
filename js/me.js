@@ -56,7 +56,7 @@ function showimg2(allmovie) {
         <div class="image">
             <div class="wrapper">
                 <a class="image" href="/tv/82856" title="The Mandalorian">
-                    <img loading="lazy" class="poster" src="https://image.tmdb.org/t/p/w300${allmovie[i].poster_path}" srcset="http://image.tmdb.org/t/p/w220_and_h330_face/${allmovie[i].poster_path} 1x, https://image.tmdb.org/t/p/w440_and_h660_face/${allmovie[i].poster_path} 2x"
+                    <img loading="lazy" class="poster" src="https://image.tmdb.org/t/p/w300${allmovie[i].poster_path}"
                         alt="">
                 </a>
             </div>
